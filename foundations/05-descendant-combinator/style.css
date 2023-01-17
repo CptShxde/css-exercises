@@ -1,0 +1,8 @@
+.container .text {
+    color: white;
+    background-color: purple;
+    font-size: 32px;
+    font-weight: 900;
+    font-family: sans-serif;
+    text-align: center;
+}
